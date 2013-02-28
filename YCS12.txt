@@ -1,0 +1,211 @@
+Y Combinator Funding Application
+Summer 2012
+Application deadline: 8 pm PST on March 28, 2012.
+
+Please try to answer each question in less than 120 words.
+
+We look at online demos only for the most promising applications, so don't skimp on the application because you're relying on a good demo.
+
+Though we don't make any formal promise about secrecy, we will try to avoid disclosing your plans to potential competitors.
+
+If you're about to answer a question by saying you can't tell us because the answer is classified or controversial, please tell us instead about an instance that isn't.
+
+We recommend you save regularly by clicking on the update button at the bottom of this page. Otherwise you may lose work if we restart the server.
+
+
+==========
+
+
+
+* Your YC username:
+- diwank
+
+* Company name:
+- IHeartCode
+
+* Company url, if any:
+- http://iheartpy.com
+
+* Phone number(s):
+
+* Please enter the Posterous url of a 1 minute video introducing the founders. (Instructions.)
+- http://sitanshuraj.posterous.com/private/xhswfuBrlc
+
+* YC usernames of all founders, including you, diwank, separated by spaces. (That's usernames, not given names: "bksmith," not "Bob Smith." If there are 3 founders, there should be 3 tokens in this answer.)
+- diwank sitanshu7 kush_agrawal
+
+* YC usernames of all founders, including you, diwank, who will live in the Bay Area June through August if we fund you. (Again, that's usernames, not given names.)
+- diwank sitanshu7 kush_agrawal
+
+* What is your company going to make?
+- IHeartCode is going to make hackers out of people. It is an interactive learning platform that runs from a browser.
+It directs people how to use git, work on the command line, code in Python and create productive/constructive web apps.
+
+IHeartCode is Codecademy + CodeSchool re-imagined for Python/Ruby, bash, vim/emacs and git, fixing the issues[1] in Codecademy along the way.
+
+[1]: http://programmingzen.com/2012/01/16/on-the-usability-of-codecademy/
+
+* If this application is a response to a YC RFS, which one?
+- None.
+
+* For each founder, please list: YC username; name; age; year of graduation, school, degree and subject for each degree; email address; personal url, github url, facebook id, twitter id; employer and title (if any) at last job before this startup. Put unfinished degrees in parens. List the main contact first. Separate founders with blank lines. Put an asterisk before the name of anyone not able to move to the Bay Area.
+
+
+* Please tell us in one or two sentences about the most impressive thing other than this startup that each founder has built or achieved.
+- Diwank: Wrote a collection of short poems [http://poet.diwank.name]; Made a profitable Social Networking site for his batchmates at 16 (was hosted at http://lafierdipsite.com but is no longer up; made a total of just 200 USD ; Scored a 1900 in SAT Reasoning and a 2380 in SAT Subject Tests (Math Level-2, Physics and Chemistry); Got 98% GPA in 10th Standard;
+
+Sitanshu: Teaches calculus in his spare time; Is compiling an anthology of views of architects on Design; Frequently raised funding for college projects (Largest in 2010 amounting to $18,000 for a survey trip)
+
+Kush: Has a facebook page dedicated to his humorous side. Attended one event outside of class, everyday first semester freshman year, at UC Berkeley(PHd Seminars, Japanese block printing, Film premiers etc.)
+
+
+* Please tell us about the time you, diwank, most successfully hacked some (non-computer) system to your advantage.
+- Got a discotheque organized during our farewell party (despite being banned). I took advantage of a severe lack of communication between the hostel warden and the Principal.
+
+Actually, we convinced the warden to give his consent on the condition that we would obtain the Principal's permission first. We then conveyed to the Principal that the warden was willing to take responsibility for the same. He blindly believed us.
+
+The most amusing thing in the whole incident was that they only found out after we had had the discotheque that no official permission was ever obtained. :D
+
+
+* Please tell us about an interesting project, preferably outside of class or work, that two or more of you created together. Include urls if possible.
+- Sitanshu + Diwank + Kush: Went out to discuss ideas with people to figure out what they need.
+In the process, created OpenKudos (http://dcurt.is like Kudos buttons) [https://github.com/creatorrr/OpenKudos] and [http://idea.diwank.name] to get votes and suggestions.
+
+Kush + Diwank: Semyorka (HTML Parser in C++) as a submission for an inter-school tech competition. [https://github.com/creatorrr/CPP-is-Sad]
+(P.s. We won!)
+
+* How long have the founders known one another and how did you meet? Have any of the founders not met in person?
+- Kush and Diwank were at school together for two years. They were also co-Presidents of a Computer Club while at school.
+
+Diwank and Sitanshu have known each other for three years now.
+
+All the founders have met each other in person.
+
+* Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+- A close friend of mine had taken up a BS in Computer Science. She asked me to teach her Python and so I cooked up a rudimentary REPL to let her try out basic commands from her browser.
+
+I quickly realized that people new to coding love the interactive approach.It lets them get their hands dirty without the fear of breaking their PC.
+
+I have made quite a few apps for App Engine ( http://iheartpy.com , http://kudos.diwank.name , http://shrtnr.diwank.name ) and gained a lot of experience while making them.
+
+We have around 50 people who have signed up for the beta so far. The way they teach programming at colleges is broken. I am yet to meet a college student who finds college programming classes interesting.
+
+
+* What's new about what you're making? What substitutes do people resort to because it doesn't exist yet (or they don't know about it)?
+- An NLP based approach to online REPLs. Our current prototype already gets around most of the issues mentioned in [http://programmingzen.com/2012/01/16/on-the-usability-of-codecademy/]
+
+Most college kids end up mugging up programs (literally!) or purchase tons of books prescribed by their faculty to learn basic principles.
+
+* Who are your competitors, and who might become competitors? Who do you fear most?
+- Codecademy (http://www.codeschool.com/) and CodeSchool (http://www.codeschool.com/)
+
+We are closely watching MIT's foray into online learning. For one, it is pulling more students online (which is a good thing for us) but it holds the power to disrupt the industry (so it is too early to say anything.)
+
+
+* What do you understand about your business that other companies in it just don't get?
+- That a few loyal users that are keen learners can trump a huge fan following that is just hanging around any day.
+
+Codecademy, for instance, takes a get-users-quick approach by lowering the minimum-excitement threshold too much. So in effect, most people just disappear after getting bored and hence pollute the user space. [http://www.hackeducation.com/2011/10/28/codecademy-and-the-future-of-not-learning-to-code/]
+
+
+* How do or will you make money? How much could you make? (We realize you can't know precisely, but give your best estimate.)
+- We have loads of ideas on how to turn this idea into a profitable venture.
+ -> Charge users to grab a certificate after thorough testing. (probably from a reputed University)
+Something like this: [http://www.oreillyschool.com/certificates/python-programming.php]
+
+ -> Create a live teaching platform over Google Hangouts (or Justin.tv) that allows "graduated" users to sign up as "teachers" and earn some buck. And let newbies sign up for a live teacher for a small monthly fee.
+
+So basically:
+~ If we charge say $25/month for a live teacher,
+~ Make groups of 6 each and
+~ Keep 30%, then:
+
+n = no_of_people_teaching
+Net revenue = 0.3*25*6*n
+
+[for n = 5000; revenue = $225,000/month]
+
+
+
+* If you've already started working on it, how long have you been working and how many lines of code (if applicable) have you written?
+- Six months of prototyping and iterative development of iheartpy.com
+
+We've already written over 3k LOC.
+
+
+* How far along are you? Do you have a beta yet? If not, when will you? Are you launched? If so, how many users do you have? Do you have revenue? If so, how much? If you're launched, what is your monthly growth rate (in users or revenue or both)?
+- We have a working prototype up and running. It's quite rough around the edges and we have to add more lessons.
+We should launch soon,approximately in another two weeks.
+
+We already have about 50 people who have signed up for the beta release.
+
+* If you have an online demo, what's the url? (Please don't password protect it; just use an obscure url.)
+- iheartpy.com
+
+* How will you get users? If your idea is the type that faces a chicken-and-egg problem in the sense that it won't be attractive to users till it has a lot of users (e.g. a marketplace, a dating site, an ad network), how will you overcome that?
+- Word of mouth and social engagement.
+We will also host hack weekends and code jams locally to attract young coders and understand how they learn.
+
+
+* If you're already incorporated, when were you? Who are the shareholders and what percent does each own? If you've had funding, how much, at what valuation(s)?
+- Nope.
+
+* If you're not incorporated yet, please list the percent of the company you plan to give each founder, and anyone else you plan to give stock to. (This question is as much for you as us.)
+- Each founder gets 10-20%
+
+
+* If we fund you, which of the founders will commit to working exclusively (no school, no other jobs) on this project for the next year?
+- All of us.
+
+
+* For founders who can't, why not? What level of commitment are they willing to make?
+- No.
+
+
+* Do any founders have other commitments between June and August 2012 inclusive?
+- No.
+
+* Do any founders have commitments in the future (e.g. finishing college, going to grad school), and if so what?
+- Kush has to finish college.
+
+Diwank hates colleges but may end up in one for research (loves research though).
+
+Sitanshu is free as a bird.
+
+* Where do you live now, and where would the company be based after YC?
+- Diwank and Sitanshu live in Lucknow (in Central India).
+
+Kush lives in New Delhi but is currently a student of UC Berkley.
+
+The company will be based in the Bay Area after YC.
+
+* Are any of the founders covered by noncompetes or intellectual property agreements that overlap with your project? Will any be working as employees or consultants for anyone else?
+- No.
+
+* Was any of your code written by someone who is not one of your founders? If so, how can you safely use it? (Open source is ok of course.)
+- No.
+
+
+* Are any of the following true? (a) You are the only founder. (b) You are a student who may return to school when the next term starts. (c) Half or more of your group can't move to the Bay Area. (d) One or more founders will keep their current jobs. (e) None of the founders are programmers.
+(Answering yes doesn't disqualify you. It's just to remind us to check.)
+- No.
+
+
+* If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application.
+- R2D2 (A personal computing device in the cloud; imagine installing web apps the way you install iPhone Apps)
+
+Dash (Set of applications that enable coding, testing, debugging and deployment on mobile devices; YC RFS #5)
+
+
+* Please tell us something surprising or amusing that one of you has discovered. (The answer need not be related to your project.)
+- People over-value ideas real bad!
+
+For the past few weeks, we have actually interviewed users to find out their needs and gather suggestions. [http://idea.diwank.name lets people vote on the ideas]
+
+We got some brilliant suggestions and sent those people a warm thank-you. One of them replied:
+
+"Please clarify: 
+Who is going to build this app, you guys? 
+Any royalty for me If someone made this app and launch it in the marketplace?"
+
+:D
